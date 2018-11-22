@@ -8,6 +8,6 @@
 
 | Item   |      Checklist  |
 |----------|:-------------:|
-| Hello world |  [ ]       |
-| Basic Datatype |   [ ]   |
-| Variable | [ ]           |
+| Hello world | - [ ]       |
+| Basic Datatype |  - [ ]   |
+| Variable | - [ ]           |
