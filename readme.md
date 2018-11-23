@@ -4,7 +4,7 @@
 #### This is typescsript 101 for beginner and this note are few minutes efforts. Please dont complain :).
 
 
-... Table of contents
+...Table of contents
 
 - [ ] Hello world
 - [ ] Basic datatype
@@ -16,4 +16,4 @@
 - [ ] Class
 
 
-... Some advance example might be not in here.
+...Some advance example might be not in here.
