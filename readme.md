@@ -6,7 +6,7 @@
 
 ...Table of contents
 
-- [ ] Hello world
+- [x] Hello world
 - [ ] Basic datatype
 - [ ] Variable
 - [ ] Array
