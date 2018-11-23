@@ -4,10 +4,16 @@
 #### This is typescsript 101 for beginner and this note are few minutes efforts. Please dont complain :).
 
 
-...Table of contents
+... Table of contents
 
-| Item   |      Checklist  |
-|----------|:-------------:|
-| Hello world | - [ ]       |
-| Basic Datatype |  - [ ]   |
-| Variable | - [ ]           |
+- [ ] Hello world
+- [ ] Basic datatype
+- [ ] Variable
+- [ ] Array
+- [ ] Loop
+- [ ] Conditional Flow
+- [ ] Function
+- [ ] Class
+
+
+... Some advance example might be not in here.
